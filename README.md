@@ -104,7 +104,7 @@ Segment 1 was excluded from consideration as it was not a priority due to the sm
 
 I used pair t-tests to look at how each segment felt both stores performed on their valued factors, using the additional 4 (Value for money, strong reputation, fun to shop, helpful employees) as extra information rather than deciding factors. As a result, I found segment 6 and 5 were easiest to adjust and remain competitive for. Naples generally outperformed in the additional 4 factors for all segments except for segment 6 factor ¼ (value for money).
 
-(Shop x Segment Martys&Naples)
+![Crosstabulation of Segments and Stores](SegmentsCrosstab.png)
 
 I also looked at the size of each segment and created a cross-tabulation to look at how much of the market was captured by Martys and Naples per segment. The size of segments alluded to segment 3(49% of respondents) having the most opportunity. From the cross-tabulation, segment 2(44.7%), 3(30.1%), and 5(30%) seemed to have the most market still available to capture without Naples dominating the market which is important because Martys had weaker performances in terms of store factors so I felt the ability to take from the competitor, Naples, customers were lower.
 
